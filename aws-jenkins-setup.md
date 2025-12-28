@@ -1,4 +1,5 @@
 Jenkins CI/CD pipeline setup on AWS  
+This setup uses only Jenkins master without agents.
 Step-1: Launch an EC2 instance in AWS  
 1. AWS Console → EC2 → Launch Instance
 2. AMI: Ubuntu 22.04 LTS
